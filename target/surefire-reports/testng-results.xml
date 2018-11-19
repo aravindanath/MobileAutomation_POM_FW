@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37812" started-at="2018-11-19T07:18:55Z" finished-at="2018-11-19T07:19:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37812" started-at="2018-11-19T07:18:55Z" finished-at="2018-11-19T07:19:33Z">
+      <class name="testScripts.UiKit">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:testScripts.UiKit@6d00a15d]" name="launchDriver" is-config="true" duration-ms="33968" started-at="2018-11-19T07:18:55Z" finished-at="2018-11-19T07:19:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="search()[pri:0, instance:testScripts.UiKit@6d00a15d]" name="search" duration-ms="3812" started-at="2018-11-19T07:19:29Z" finished-at="2018-11-19T07:19:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- testScripts.UiKit -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
